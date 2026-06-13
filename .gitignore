@@ -1,0 +1,12 @@
+# Build directories
+build/
+files/build/
+
+# Executables and bin files
+*.exe
+platformer
+files/platformer
+
+# Archive/Compressed files
+*.zip
+files.zip
